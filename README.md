@@ -4,8 +4,9 @@ You can use the [editor on GitHub](https://github.com/Goddamnchen/HTML_CSS_JS_JH
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+### Module2
+- [Module2 Coding Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
+- [My Solution](/site/module2-solution/menu2.html)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
