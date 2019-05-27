@@ -11,6 +11,6 @@ This is a index page of learning materials and assignments.
 - [My Solution](/site/module3-solution/menu3.html)
 
 ### Module4
-- [Module4 Coding Assignment](https://www.coursera.org/learn/html-css-javascript-for-web-developers/peer/LT6I0/module-4-coding-assignment)
+- [Module4 Coding Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
 - [My Solution](/site/module4-solution/index.html)
 
